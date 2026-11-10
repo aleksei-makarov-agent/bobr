@@ -2,7 +2,7 @@
 
 Commands below assume sibling `bobr` and `bobr-recipes` checkouts and are run
 from their parent directory. Recipe builds require the environment described
-in [Installation](./INSTALLATION.md#prerequisites).
+in [Installation](./INSTALLATION.md#build-requirements).
 
 ## Build and check Bobr
 
