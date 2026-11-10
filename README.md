@@ -12,6 +12,8 @@ helpers for booting the resulting systems under QEMU.
 
 Website and documentation: [bobr.build](https://bobr.build/).
 
+Github: [bobr](https://github.com/aleksey-makarov/bobr), [bobr-recipes](https://github.com/aleksey-makarov/bobr-recipes)
+
 ## Try Bobr
 
 On x86-64 Linux, install the latest release with:
